@@ -1,0 +1,12 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.CoinACe" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your dark theme here. -->
+
+        <item name="android:statusBarColor">@color/statusbar</item>
+        <item name="colorPrimary">@color/mavi</item>
+        <item name="colorPrimaryDark">@color/mavi</item>
+        <item name="backgroundColor">@color/darkBackgroundColor</item>
+        <item name="android:windowBackground">@color/darkBackgroundColor</item>
+    </style>
+</resources>

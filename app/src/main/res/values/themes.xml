@@ -1,0 +1,18 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.CoinACe" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+
+        <item name="android:textColor">@color/lighttext</item>
+        <item name="colorPrimary">@color/lighttext</item>
+        <item name="colorPrimaryVariant">@color/lighttext</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="android:windowBackground">@color/mavi</item>
+        <item name="android:statusBarColor">@color/mavi</item>
+        <item name="android:fontFamily">@font/poppins_medium</item>
+
+    </style>
+    <style name="Theme.CoinACe" parent="Base.Theme.CoinACe">
+    </style>
+
+</resources>

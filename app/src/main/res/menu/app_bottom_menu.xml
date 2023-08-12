@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+   <item android:id="@+id/homeFragment"
+       android:title="Home"
+       android:icon="@drawable/home"></item>
+
+    <item
+        android:icon="@drawable/coinchart"
+        android:title="Market"
+        android:id="@+id/marketFragment" />
+
+    <item android:id="@+id/favoriteFragment"
+        android:title="Favorite"
+        android:icon="@drawable/favorite"></item>
+
+    <item android:id="@+id/newsFragment"
+        android:title="News"
+        android:icon="@drawable/news"></item>
+    <item android:id="@+id/settingsFragment"
+        android:icon="@drawable/setting"
+        android:title="Settings"></item>
+
+
+
+</menu>
